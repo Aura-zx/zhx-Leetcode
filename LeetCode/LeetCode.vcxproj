@@ -80,6 +80,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="14_Longest_Common_Prefix.h" />
+    <ClInclude Include="206_Reverse_Linked_List.h" />
     <ClInclude Include="217_Contains_Duplicate.h" />
     <ClInclude Include="219_Contains_Duplicate_II.h" />
     <ClInclude Include="35_Search_Insert_Position.h" />
