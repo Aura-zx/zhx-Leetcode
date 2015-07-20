@@ -2,7 +2,6 @@
 #define REVERSE_LINKED_LIST_H
 
 #include <iostream>
-using namespace std;
 
 class Solution_206
 {
