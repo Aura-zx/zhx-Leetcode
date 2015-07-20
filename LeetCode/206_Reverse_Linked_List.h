@@ -1,5 +1,5 @@
-#ifndef 206_REVERSE_LINKED_LIST_H
-#define	206_REVERSE_LINKED_LIST_H
+#ifndef REVERSE_LINKED_LIST_H
+#define REVERSE_LINKED_LIST_H
 
 #include <iostream>
 using namespace std;
@@ -11,15 +11,20 @@ public:
 	{
 		int val;
 		ListNode *next;
-		LsitNode(int x): val(x), next(NULL){};
+		ListNode(int x) : val(x), next(NULL){};
 	};
 	ListNode* reverseList(ListNode* head)
 	{
-		if (head->next == NULL)		// check if head is empty
-			return head;
-		else 
-			reverseList(head->next);
+		ListNode *pre = NULL;
+		while (head != NULL)
+		{
+			ListNode *tmp = head->next;
+			head->next = pre;
+			pre = head;
+			head = tmp;
+		}
+		return pre;
 	}
 };
 
-#endif // !206_REVERSE_LINKED_LIST_H
+#endif // !REVERSE_LINKED_LIST_H
