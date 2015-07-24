@@ -48,6 +48,9 @@
     <ClInclude Include="237_Delete_Node_in_a_Linked_List.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="160_Intersection_of_Two_Linked_Lists.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
