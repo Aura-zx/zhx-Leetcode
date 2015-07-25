@@ -79,6 +79,7 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="112_Path_Sum.h" />
     <ClInclude Include="14_Longest_Common_Prefix.h" />
     <ClInclude Include="160_Intersection_of_Two_Linked_Lists.h" />
     <ClInclude Include="206_Reverse_Linked_List.h" />

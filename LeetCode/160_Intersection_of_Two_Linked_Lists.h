@@ -22,6 +22,7 @@ public:
 		int lengthA = 0;
 		int lengthB = 0;
 
+		// find length of two linked list
 		while (headA != NULL)
 		{
 			headA = headA->next;
@@ -34,6 +35,7 @@ public:
 			lengthB++;
 		}
 		
+		// which list is longer , it go |M-N| steps
 		int max = lengthA > lengthB ? 1 : 0;
 		int diff = abs(lengthA - lengthB);
 		if (max == 1)
@@ -53,6 +55,7 @@ public:
 			}
 		}
 
+		// now they are the same length , compare one by one
 		while (hA != NULL && hB != NULL)
 		{
 			if (hA == hB)
