@@ -85,6 +85,8 @@
     <ClInclude Include="206_Reverse_Linked_List.h" />
     <ClInclude Include="217_Contains_Duplicate.h" />
     <ClInclude Include="219_Contains_Duplicate_II.h" />
+    <ClInclude Include="234_Palindrome_Linked_List.h" />
+    <ClInclude Include="235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.h" />
     <ClInclude Include="237_Delete_Node_in_a_Linked_List.h" />
     <ClInclude Include="35_Search_Insert_Position.h" />
     <ClInclude Include="58_Length_of_Last_Word.h" />
