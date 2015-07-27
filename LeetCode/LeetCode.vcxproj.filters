@@ -63,6 +63,9 @@
     <ClInclude Include="231_Power_of_Two.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="9_Palindrome_Number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

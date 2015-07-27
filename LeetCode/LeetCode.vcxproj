@@ -92,6 +92,7 @@
     <ClInclude Include="35_Search_Insert_Position.h" />
     <ClInclude Include="58_Length_of_Last_Word.h" />
     <ClInclude Include="65_Valid_Number.h" />
+    <ClInclude Include="9_Palindrome_Number.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
