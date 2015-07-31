@@ -20,7 +20,7 @@ public:
 		}
 		size_t i = 0;
 		size_t j = 0;
-		int lf = 0;
+		int lf = 0;								// 0 is single numbewr. 1 is b->e form.
 		int b;
 		for (i = 0; i < nums.size( ); i=j+1)
 		{
@@ -29,7 +29,7 @@ public:
 			for (j = i; j < nums.size( ); j++)
 			{
 				int cur = nums.at(j);
-				if (j == nums.size( )-1)
+				if (j == nums.size( )-1)				// corner case: the last element
 				{
 					if (lf == 1)
 					{
