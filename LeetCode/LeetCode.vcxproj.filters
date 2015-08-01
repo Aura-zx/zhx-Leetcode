@@ -69,6 +69,9 @@
     <ClInclude Include="228_Summary_Ranges.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="226_Invert_Binary_Tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
