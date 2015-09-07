@@ -72,6 +72,15 @@
     <ClInclude Include="226_Invert_Binary_Tree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="242_Valid_Anagram.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="223_Rectangle_Area.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="6_ZigZag_Conversion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

@@ -2,18 +2,18 @@
 //
 
 #include "stdafx.h"
-#include "228_Summary_Ranges.h"
+#include "242_Valid_Anagram.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_228 s;
-	vector<int> n = {-1 };
-	vector<string> r = s.summaryRanges(n);
+	Solution_242 s;
+	string a = "abc";
+	string t = "bac";
+	cout << s.isAnagram(a,t);
 
-	cout << "oo";
 	return 0;
 }
 
