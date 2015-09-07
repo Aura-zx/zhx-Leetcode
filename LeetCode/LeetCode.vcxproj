@@ -93,6 +93,7 @@
     <ClInclude Include="235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.h" />
     <ClInclude Include="237_Delete_Node_in_a_Linked_List.h" />
     <ClInclude Include="242_Valid_Anagram.h" />
+    <ClInclude Include="263_Ugly_Number.h" />
     <ClInclude Include="35_Search_Insert_Position.h" />
     <ClInclude Include="58_Length_of_Last_Word.h" />
     <ClInclude Include="65_Valid_Number.h" />

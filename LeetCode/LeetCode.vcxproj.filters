@@ -81,6 +81,9 @@
     <ClInclude Include="6_ZigZag_Conversion.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="263_Ugly_Number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
