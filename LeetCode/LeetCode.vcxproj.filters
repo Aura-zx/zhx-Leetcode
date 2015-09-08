@@ -84,6 +84,9 @@
     <ClInclude Include="263_Ugly_Number.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="258_Add_Digits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

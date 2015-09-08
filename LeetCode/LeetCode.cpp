@@ -2,17 +2,15 @@
 //
 
 #include "stdafx.h"
-#include "242_Valid_Anagram.h"
+#include "258_Add_Digits.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_242 s;
-	string a = "abc";
-	string t = "bac";
-	cout << s.isAnagram(a,t);
+	Solution_258 s;
+	cout << s.addDigits(19);
 
 	return 0;
 }
