@@ -87,6 +87,9 @@
     <ClInclude Include="258_Add_Digits.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="283_Move_Zeros.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

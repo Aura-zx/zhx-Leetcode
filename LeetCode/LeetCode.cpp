@@ -2,16 +2,16 @@
 //
 
 #include "stdafx.h"
-#include "258_Add_Digits.h"
+#include "283_Move_Zeros.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_258 s;
-	cout << s.addDigits(19);
-
+	Solution_283 s;
+	vector<int> v = { 1, 2, 4, 0, 6, 0, 6, 8, 32, 0, 0 };
+	s.moveZeroes(v);
 	return 0;
 }
 
