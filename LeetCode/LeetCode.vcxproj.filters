@@ -90,6 +90,12 @@
     <ClInclude Include="283_Move_Zeros.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="191_Number_of_1_Bits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="169_Majority_Element.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
