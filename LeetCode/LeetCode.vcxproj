@@ -79,10 +79,13 @@
     <Text Include="ReadMe.txt" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="100_Same_Tree.h" />
     <ClInclude Include="112_Path_Sum.h" />
+    <ClInclude Include="13_Roman_to_Integer.h" />
     <ClInclude Include="14_Longest_Common_Prefix.h" />
     <ClInclude Include="160_Intersection_of_Two_Linked_Lists.h" />
     <ClInclude Include="169_Majority_Element.h" />
+    <ClInclude Include="171_Excel_Sheet_Column_Number.h" />
     <ClInclude Include="191_Number_of_1_Bits.h" />
     <ClInclude Include="206_Reverse_Linked_List.h" />
     <ClInclude Include="217_Contains_Duplicate.h" />
@@ -102,6 +105,8 @@
     <ClInclude Include="58_Length_of_Last_Word.h" />
     <ClInclude Include="65_Valid_Number.h" />
     <ClInclude Include="6_ZigZag_Conversion.h" />
+    <ClInclude Include="70_Climbing_Stairs.h" />
+    <ClInclude Include="83_Remove_Duplicates_from_Sorted_List.h" />
     <ClInclude Include="9_Palindrome_Number.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />

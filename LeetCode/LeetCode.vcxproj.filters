@@ -96,6 +96,21 @@
     <ClInclude Include="169_Majority_Element.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="100_Same_Tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="171_Excel_Sheet_Column_Number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="13_Roman_to_Integer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="83_Remove_Duplicates_from_Sorted_List.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="70_Climbing_Stairs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
