@@ -111,6 +111,9 @@
     <ClInclude Include="70_Climbing_Stairs.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="292_Nim_Game.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
