@@ -80,6 +80,8 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="100_Same_Tree.h" />
+    <ClInclude Include="101_Symmetric_Tree.h" />
+    <ClInclude Include="110_Balanced_Binary_Tree.h" />
     <ClInclude Include="112_Path_Sum.h" />
     <ClInclude Include="13_Roman_to_Integer.h" />
     <ClInclude Include="14_Longest_Common_Prefix.h" />

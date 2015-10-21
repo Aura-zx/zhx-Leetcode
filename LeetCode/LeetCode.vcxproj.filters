@@ -120,6 +120,12 @@
     <ClInclude Include="21_Merge_Two_Sorted_Lists.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="110_Balanced_Binary_Tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="101_Symmetric_Tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
