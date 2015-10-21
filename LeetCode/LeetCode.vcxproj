@@ -91,6 +91,7 @@
     <ClInclude Include="206_Reverse_Linked_List.h" />
     <ClInclude Include="217_Contains_Duplicate.h" />
     <ClInclude Include="219_Contains_Duplicate_II.h" />
+    <ClInclude Include="21_Merge_Two_Sorted_Lists.h" />
     <ClInclude Include="223_Rectangle_Area.h" />
     <ClInclude Include="226_Invert_Binary_Tree.h" />
     <ClInclude Include="228_Summary_Ranges.h" />
