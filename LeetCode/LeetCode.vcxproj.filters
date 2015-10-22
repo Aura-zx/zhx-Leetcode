@@ -126,6 +126,18 @@
     <ClInclude Include="101_Symmetric_Tree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="27_Remove_Element.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="107_Binary_Tree_Level_Order_Traversal_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="26_Remove_Duplicates_from_Sorted_Array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="66_Plus_One.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

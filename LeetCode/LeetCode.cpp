@@ -2,16 +2,19 @@
 //
 
 #include "stdafx.h"
-#include "13_Roman_to_Integer.h"
+#include "66_Plus_One.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_13 s = Solution_13( );
-	string as = "DCXXI";
-	cout << s.romanToInt(as);
+	Solution_66 s = Solution_66( );
+	vector<int> t = { 1, 0 };
+	
+	vector<int> tt = s.plusOne(t);
+
+	cout << "";
 	return 0;
 }
 
