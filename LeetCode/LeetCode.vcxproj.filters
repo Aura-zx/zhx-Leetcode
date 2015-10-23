@@ -138,6 +138,15 @@
     <ClInclude Include="66_Plus_One.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="198_House_Robber.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="118_Pascal%27s_Triangle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="119_Pascal%27s_Triangle_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
