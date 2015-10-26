@@ -2,17 +2,16 @@
 //
 
 #include "stdafx.h"
-#include "118_Pascal's_Triangle.h"
+#include "172_Factorial_Trailing_Zeroes.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_118 s = Solution_118( );
-	vector<int> t = { 1, 0 };
+	Solution_172 s = Solution_172( );
 	
-	vector<vector<int>> tt = s.generate(3);
+	s.trailingZeroes(5);
 
 
 	cout << "";
