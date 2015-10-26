@@ -96,6 +96,7 @@
     <ClInclude Include="191_Number_of_1_Bits.h" />
     <ClInclude Include="198_House_Robber.h" />
     <ClInclude Include="202_Happy_Number.h" />
+    <ClInclude Include="203_Remove_Linked_List_Elements.h" />
     <ClInclude Include="206_Reverse_Linked_List.h" />
     <ClInclude Include="217_Contains_Duplicate.h" />
     <ClInclude Include="219_Contains_Duplicate_II.h" />
