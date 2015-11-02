@@ -159,6 +159,15 @@
     <ClInclude Include="19_Remove_Nth_Node_From_End_of_List.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="88_Merge_Sorted_Array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="190_Reverse_Bits.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="36_Valid_Sudoku.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

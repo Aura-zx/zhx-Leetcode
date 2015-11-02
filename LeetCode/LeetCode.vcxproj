@@ -93,6 +93,7 @@
     <ClInclude Include="169_Majority_Element.h" />
     <ClInclude Include="171_Excel_Sheet_Column_Number.h" />
     <ClInclude Include="172_Factorial_Trailing_Zeroes.h" />
+    <ClInclude Include="190_Reverse_Bits.h" />
     <ClInclude Include="191_Number_of_1_Bits.h" />
     <ClInclude Include="198_House_Robber.h" />
     <ClInclude Include="19_Remove_Nth_Node_From_End_of_List.h" />
@@ -117,12 +118,14 @@
     <ClInclude Include="283_Move_Zeros.h" />
     <ClInclude Include="292_Nim_Game.h" />
     <ClInclude Include="35_Search_Insert_Position.h" />
+    <ClInclude Include="36_Valid_Sudoku.h" />
     <ClInclude Include="58_Length_of_Last_Word.h" />
     <ClInclude Include="65_Valid_Number.h" />
     <ClInclude Include="66_Plus_One.h" />
     <ClInclude Include="6_ZigZag_Conversion.h" />
     <ClInclude Include="70_Climbing_Stairs.h" />
     <ClInclude Include="83_Remove_Duplicates_from_Sorted_List.h" />
+    <ClInclude Include="88_Merge_Sorted_Array.h" />
     <ClInclude Include="9_Palindrome_Number.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
