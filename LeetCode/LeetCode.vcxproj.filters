@@ -168,6 +168,21 @@
     <ClInclude Include="36_Valid_Sudoku.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="20_Valid_Parentheses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="205_Isomorphic_Strings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="290_Word_Pattern.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="38_Count_and_Say.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="67_Add_Binary.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
