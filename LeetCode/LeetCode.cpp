@@ -2,19 +2,20 @@
 //
 
 #include "stdafx.h"
-#include "67_Add_Binary.h"
+#include "7_Reverse_Integer.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_67 s = Solution_67( );
+	Solution_7 s = Solution_7( );
 	string a("1010");
 	string b("1011");
 
 	
-	cout << s.addBinary(a, b);
+	cout << s.reverse(123);
+	cout << s.reverse(-123);
 	return 0;
 }
 

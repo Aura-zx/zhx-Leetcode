@@ -113,6 +113,7 @@
     <ClInclude Include="235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.h" />
     <ClInclude Include="237_Delete_Node_in_a_Linked_List.h" />
     <ClInclude Include="242_Valid_Anagram.h" />
+    <ClInclude Include="257_Binary_Tree_Path.h" />
     <ClInclude Include="258_Add_Digits.h" />
     <ClInclude Include="263_Ugly_Number.h" />
     <ClInclude Include="26_Remove_Duplicates_from_Sorted_Array.h" />
@@ -129,6 +130,7 @@
     <ClInclude Include="67_Add_Binary.h" />
     <ClInclude Include="6_ZigZag_Conversion.h" />
     <ClInclude Include="70_Climbing_Stairs.h" />
+    <ClInclude Include="7_Reverse_Integer.h" />
     <ClInclude Include="83_Remove_Duplicates_from_Sorted_List.h" />
     <ClInclude Include="88_Merge_Sorted_Array.h" />
     <ClInclude Include="9_Palindrome_Number.h" />

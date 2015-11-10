@@ -183,6 +183,12 @@
     <ClInclude Include="67_Add_Binary.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="257_Binary_Tree_Path.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="7_Reverse_Integer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
