@@ -189,6 +189,12 @@
     <ClInclude Include="7_Reverse_Integer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="303_Range_Sum_Query_Immutable.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="299_Bulls_and_Cows.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
