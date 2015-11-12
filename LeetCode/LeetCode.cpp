@@ -2,19 +2,19 @@
 //
 
 #include "stdafx.h"
-#include "299_Bulls_and_Cows.h"
+#include "28_Implement_strStr.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_299 s = Solution_299( );
-	string a("1122");
-	string b("1222");
+	Solution_28 s = Solution_28( );
+	string a("abab");
+	string b("abab");
 
 	
-	cout << s.getHint(a, b);
+	cout << s.strStr(a, b);
 
 	return 0;
 }
