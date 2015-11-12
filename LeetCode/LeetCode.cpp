@@ -2,19 +2,19 @@
 //
 
 #include "stdafx.h"
-#include "28_Implement_strStr.h"
+#include "125_Valid_Palindrome.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_28 s = Solution_28( );
-	string a("abab");
-	string b("abab");
+	Solution_125 s = Solution_125( );
+	string a("a ba");
+
 
 	
-	cout << s.strStr(a, b);
+	cout << s.isPalindrome(a);
 
 	return 0;
 }

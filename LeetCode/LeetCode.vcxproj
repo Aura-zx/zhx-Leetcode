@@ -87,6 +87,7 @@
     <ClInclude Include="112_Path_Sum.h" />
     <ClInclude Include="118_Pascal%27s_Triangle.h" />
     <ClInclude Include="119_Pascal%27s_Triangle_II.h" />
+    <ClInclude Include="125_Valid_Palindrome.h" />
     <ClInclude Include="13_Roman_to_Integer.h" />
     <ClInclude Include="14_Longest_Common_Prefix.h" />
     <ClInclude Include="160_Intersection_of_Two_Linked_Lists.h" />

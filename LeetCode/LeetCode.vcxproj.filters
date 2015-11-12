@@ -198,6 +198,9 @@
     <ClInclude Include="28_Implement_strStr.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="125_Valid_Palindrome.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
