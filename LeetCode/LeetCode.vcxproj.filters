@@ -204,6 +204,9 @@
     <ClInclude Include="278_First_Bad_Version.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="168_Excel_Sheet_Column_Title.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

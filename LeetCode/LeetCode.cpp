@@ -2,19 +2,19 @@
 //
 
 #include "stdafx.h"
-#include "278_First_Bad_Version.h"
+#include "168_Excel_Sheet_Column_Title.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_278 s = Solution_278( );
+	Solution_168 s = Solution_168( );
 	string a("a ba");
 
 
 	
-	cout << s.firstBadVersion(4);
+	cout << s.convertToTitle(28);
 
 	return 0;
 }
