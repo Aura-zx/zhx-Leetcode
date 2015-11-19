@@ -17,7 +17,7 @@ public:
 			if (isalnum(c))
 				ss += ::toupper(c);
 
-		if (ss.empty( ))		// all the character is punctuation(,.!? ect)
+		if (ss.empty( ))		// all the character is punctuation(,.!? etc)
 			return true;
 		int i = 0;
 		int j = ss.length()-1;

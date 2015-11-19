@@ -118,6 +118,7 @@
     <ClInclude Include="258_Add_Digits.h" />
     <ClInclude Include="263_Ugly_Number.h" />
     <ClInclude Include="26_Remove_Duplicates_from_Sorted_Array.h" />
+    <ClInclude Include="278_First_Bad_Version.h" />
     <ClInclude Include="27_Remove_Element.h" />
     <ClInclude Include="283_Move_Zeros.h" />
     <ClInclude Include="28_Implement_strStr.h" />

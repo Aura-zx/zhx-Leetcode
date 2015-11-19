@@ -2,19 +2,19 @@
 //
 
 #include "stdafx.h"
-#include "125_Valid_Palindrome.h"
+#include "278_First_Bad_Version.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_125 s = Solution_125( );
+	Solution_278 s = Solution_278( );
 	string a("a ba");
 
 
 	
-	cout << s.isPalindrome(a);
+	cout << s.firstBadVersion(4);
 
 	return 0;
 }
