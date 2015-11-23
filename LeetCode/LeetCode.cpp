@@ -2,19 +2,19 @@
 //
 
 #include "stdafx.h"
-#include "189_Rotate_Array.h"
+#include "165_Compare_Version_Numbers.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_189 s = Solution_189( );
+	Solution_165 s = Solution_165( );
 	string a("a ba");
-	vector<int> b = { 1, 2, 3, 4 };
-
+	string v1("1.2");
+	string v2("1.10");
 	
-	s.rotate(b,2);
+	s.compareVersion(v1, v2);
 
 	return 0;
 }

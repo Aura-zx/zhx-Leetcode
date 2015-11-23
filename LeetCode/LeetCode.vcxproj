@@ -91,6 +91,7 @@
     <ClInclude Include="13_Roman_to_Integer.h" />
     <ClInclude Include="14_Longest_Common_Prefix.h" />
     <ClInclude Include="160_Intersection_of_Two_Linked_Lists.h" />
+    <ClInclude Include="165_Compare_Version_Numbers.h" />
     <ClInclude Include="168_Excel_Sheet_Column_Title.h" />
     <ClInclude Include="169_Majority_Element.h" />
     <ClInclude Include="171_Excel_Sheet_Column_Number.h" />
