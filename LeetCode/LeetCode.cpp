@@ -2,19 +2,19 @@
 //
 
 #include "stdafx.h"
-#include "165_Compare_Version_Numbers.h"
+#include "8_String_To_Integer.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_165 s = Solution_165( );
+	Solution_8 s = Solution_8( );
 	string a("a ba");
-	string v1("1.2");
+	string v1("+-2");
 	string v2("1.10");
 	
-	s.compareVersion(v1, v2);
+	s.myAtoi(v1);
 
 	return 0;
 }

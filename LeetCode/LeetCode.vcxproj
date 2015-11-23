@@ -141,6 +141,7 @@
     <ClInclude Include="7_Reverse_Integer.h" />
     <ClInclude Include="83_Remove_Duplicates_from_Sorted_List.h" />
     <ClInclude Include="88_Merge_Sorted_Array.h" />
+    <ClInclude Include="8_String_To_Integer.h" />
     <ClInclude Include="9_Palindrome_Number.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />

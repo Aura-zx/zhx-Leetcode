@@ -213,6 +213,9 @@
     <ClInclude Include="165_Compare_Version_Numbers.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="8_String_To_Integer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
