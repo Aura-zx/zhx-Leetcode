@@ -2,19 +2,19 @@
 //
 
 #include "stdafx.h"
-#include "168_Excel_Sheet_Column_Title.h"
+#include "189_Rotate_Array.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_168 s = Solution_168( );
+	Solution_189 s = Solution_189( );
 	string a("a ba");
-
+	vector<int> b = { 1, 2, 3, 4 };
 
 	
-	cout << s.convertToTitle(28);
+	s.rotate(b,2);
 
 	return 0;
 }
