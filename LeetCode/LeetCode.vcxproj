@@ -129,6 +129,7 @@
     <ClInclude Include="292_Nim_Game.h" />
     <ClInclude Include="299_Bulls_and_Cows.h" />
     <ClInclude Include="303_Range_Sum_Query_Immutable.h" />
+    <ClInclude Include="338_Counting_Bits.h" />
     <ClInclude Include="35_Search_Insert_Position.h" />
     <ClInclude Include="36_Valid_Sudoku.h" />
     <ClInclude Include="38_Count_and_Say.h" />

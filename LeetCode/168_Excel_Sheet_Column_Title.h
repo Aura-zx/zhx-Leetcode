@@ -22,7 +22,7 @@ public:
 				res += 'A' + low-1;
 			n = (n-1) / 26;
 		}
-		
+
 		reverse(res.begin( ), res.end( ));
 
 		return res;
