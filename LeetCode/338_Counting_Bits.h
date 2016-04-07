@@ -31,6 +31,30 @@ public:
 
 		return res;
 	}
+
+	std::vector<int> countingBits(int num)
+	{
+		std::vector<int> res(num+1, 0);
+		int p = 1;
+		int pow = 1;
+
+		for (int i = 1; i <= num; i++)
+		{
+			if (i == pow)
+			{
+				res.at(i) = 1;
+				pow = pow << 1;
+				p = 1;
+			}
+			else
+			{
+				res.at(i) = res.at(p)+1;
+				p++;
+			}
+		}
+
+		return res;
+	}
 	
 };
 #endif // !COUNTING_BITS_H
