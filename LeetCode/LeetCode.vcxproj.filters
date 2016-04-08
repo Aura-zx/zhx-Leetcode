@@ -219,6 +219,9 @@
     <ClInclude Include="338_Counting_Bits.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="1_Two_Sum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

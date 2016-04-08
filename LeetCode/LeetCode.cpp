@@ -2,19 +2,18 @@
 //
 
 #include "stdafx.h"
-#include "8_String_To_Integer.h"
+#include "1_Two_Sum.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_8 s = Solution_8( );
-	string a("a ba");
-	string v1("+-2");
-	string v2("1.10");
-	
-	s.myAtoi(v1);
+	Solution_1 s = Solution_1( );
+	vector<int> v1 = { 3, 2, 4 };
+	int target = 6;
+
+	s.twoSum(v1, target);
 
 	return 0;
 }

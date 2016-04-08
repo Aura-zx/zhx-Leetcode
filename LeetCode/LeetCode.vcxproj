@@ -101,6 +101,7 @@
     <ClInclude Include="191_Number_of_1_Bits.h" />
     <ClInclude Include="198_House_Robber.h" />
     <ClInclude Include="19_Remove_Nth_Node_From_End_of_List.h" />
+    <ClInclude Include="1_Two_Sum.h" />
     <ClInclude Include="202_Happy_Number.h" />
     <ClInclude Include="203_Remove_Linked_List_Elements.h" />
     <ClInclude Include="205_Isomorphic_Strings.h" />
