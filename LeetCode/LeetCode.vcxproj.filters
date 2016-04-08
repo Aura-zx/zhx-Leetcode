@@ -222,6 +222,12 @@
     <ClInclude Include="1_Two_Sum.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="136_Single_Number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="137_Single_Number_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
