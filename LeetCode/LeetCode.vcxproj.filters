@@ -228,6 +228,12 @@
     <ClInclude Include="137_Single_Number_II.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="260_Single_Number_III.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="238_Product_of_Array_Except_Self.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
