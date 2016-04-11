@@ -234,6 +234,21 @@
     <ClInclude Include="238_Product_of_Array_Except_Self.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="121_Best_Time_to_Buy_and_Sell_Stock.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="122_Best_Time_to_Buy_and_Sell_Stock_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="319_Bulb_Switcher.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="268_Missing_Number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="318_Maximum_Product_of_Word_Lengths.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

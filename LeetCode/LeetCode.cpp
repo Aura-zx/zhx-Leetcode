@@ -2,18 +2,18 @@
 //
 
 #include "stdafx.h"
-#include "1_Two_Sum.h"
+#include "122_Best_Time_to_Buy_and_Sell_Stock_II.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_1 s = Solution_1( );
-	vector<int> v1 = { 0, 3, 4, 0 };
+	Solution_122 s = Solution_122( );
+	vector<int> v1 = { 1,2,4 };
 	int target = 0;
 
-	s.twoSum(v1, target);
+	s.maxProfit(v1);
 
 	return 0;
 }

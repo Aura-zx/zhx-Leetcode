@@ -87,6 +87,8 @@
     <ClInclude Include="112_Path_Sum.h" />
     <ClInclude Include="118_Pascal%27s_Triangle.h" />
     <ClInclude Include="119_Pascal%27s_Triangle_II.h" />
+    <ClInclude Include="121_Best_Time_to_Buy_and_Sell_Stock.h" />
+    <ClInclude Include="122_Best_Time_to_Buy_and_Sell_Stock_II.h" />
     <ClInclude Include="125_Valid_Palindrome.h" />
     <ClInclude Include="136_Single_Number.h" />
     <ClInclude Include="137_Single_Number_II.h" />
@@ -124,6 +126,7 @@
     <ClInclude Include="257_Binary_Tree_Path.h" />
     <ClInclude Include="258_Add_Digits.h" />
     <ClInclude Include="263_Ugly_Number.h" />
+    <ClInclude Include="268_Missing_Number.h" />
     <ClInclude Include="26_Remove_Duplicates_from_Sorted_Array.h" />
     <ClInclude Include="278_First_Bad_Version.h" />
     <ClInclude Include="27_Remove_Element.h" />
@@ -133,6 +136,8 @@
     <ClInclude Include="292_Nim_Game.h" />
     <ClInclude Include="299_Bulls_and_Cows.h" />
     <ClInclude Include="303_Range_Sum_Query_Immutable.h" />
+    <ClInclude Include="318_Maximum_Product_of_Word_Lengths.h" />
+    <ClInclude Include="319_Bulb_Switcher.h" />
     <ClInclude Include="338_Counting_Bits.h" />
     <ClInclude Include="35_Search_Insert_Position.h" />
     <ClInclude Include="36_Valid_Sudoku.h" />
