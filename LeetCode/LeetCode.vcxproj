@@ -138,6 +138,7 @@
     <ClInclude Include="303_Range_Sum_Query_Immutable.h" />
     <ClInclude Include="318_Maximum_Product_of_Word_Lengths.h" />
     <ClInclude Include="319_Bulb_Switcher.h" />
+    <ClInclude Include="328_Odd_Even_Linked_List.h" />
     <ClInclude Include="338_Counting_Bits.h" />
     <ClInclude Include="35_Search_Insert_Position.h" />
     <ClInclude Include="36_Valid_Sudoku.h" />
@@ -152,8 +153,10 @@
     <ClInclude Include="83_Remove_Duplicates_from_Sorted_List.h" />
     <ClInclude Include="88_Merge_Sorted_Array.h" />
     <ClInclude Include="8_String_To_Integer.h" />
+    <ClInclude Include="96_Unique_Binary_Search_Trees.h" />
     <ClInclude Include="9_Palindrome_Number.h" />
     <ClInclude Include="260_Single_Number_III.h" />
+    <ClInclude Include="basic_struct.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>
