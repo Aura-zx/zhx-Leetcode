@@ -258,6 +258,12 @@
     <ClInclude Include="basic_struct.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="230_Kth_Smallest_Element_in_a_BST.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="144_Binary_Tree_Preorder_Traversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
