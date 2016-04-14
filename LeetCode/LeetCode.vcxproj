@@ -94,6 +94,7 @@
     <ClInclude Include="137_Single_Number_II.h" />
     <ClInclude Include="13_Roman_to_Integer.h" />
     <ClInclude Include="144_Binary_Tree_Preorder_Traversal.h" />
+    <ClInclude Include="145_Binary_Tree_Postorder_Traversal.h" />
     <ClInclude Include="14_Longest_Common_Prefix.h" />
     <ClInclude Include="160_Intersection_of_Two_Linked_Lists.h" />
     <ClInclude Include="165_Compare_Version_Numbers.h" />
@@ -155,6 +156,7 @@
     <ClInclude Include="83_Remove_Duplicates_from_Sorted_List.h" />
     <ClInclude Include="88_Merge_Sorted_Array.h" />
     <ClInclude Include="8_String_To_Integer.h" />
+    <ClInclude Include="94_Binary_Tree_Inorder_Traversal.h" />
     <ClInclude Include="96_Unique_Binary_Search_Trees.h" />
     <ClInclude Include="9_Palindrome_Number.h" />
     <ClInclude Include="260_Single_Number_III.h" />
