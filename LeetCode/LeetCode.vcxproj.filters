@@ -264,6 +264,18 @@
     <ClInclude Include="144_Binary_Tree_Preorder_Traversal.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="145_Binary_Tree_Postorder_Traversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="94_Binary_Tree_Inorder_Traversal.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="108_Convert_Sorted_Array_to_Binary_Search_Tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="109_Convert_Sorted_List_to_Binary_Search_Tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
