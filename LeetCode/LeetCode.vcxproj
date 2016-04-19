@@ -95,6 +95,7 @@
     <ClInclude Include="136_Single_Number.h" />
     <ClInclude Include="137_Single_Number_II.h" />
     <ClInclude Include="13_Roman_to_Integer.h" />
+    <ClInclude Include="141_Linked_List_Cycle.h" />
     <ClInclude Include="144_Binary_Tree_Preorder_Traversal.h" />
     <ClInclude Include="145_Binary_Tree_Postorder_Traversal.h" />
     <ClInclude Include="14_Longest_Common_Prefix.h" />
@@ -165,6 +166,7 @@
     <ClInclude Include="9_Palindrome_Number.h" />
     <ClInclude Include="260_Single_Number_III.h" />
     <ClInclude Include="basic_struct.h" />
+    <ClInclude Include="142_Linked_List_Cycle_II.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>

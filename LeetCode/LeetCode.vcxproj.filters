@@ -282,6 +282,12 @@
     <ClInclude Include="213_House_Robber_II.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="141_Linked_List_Cycle.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="142_Linked_List_Cycle_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
