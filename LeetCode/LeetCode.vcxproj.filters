@@ -288,6 +288,9 @@
     <ClInclude Include="142_Linked_List_Cycle_II.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="22_Generate_Parentheses.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
