@@ -291,6 +291,15 @@
     <ClInclude Include="22_Generate_Parentheses.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="343_Integer_Break.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="309_Best_Time_to_Buy_and_Sell_Stock_with_Colldown.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="116_Population_Next_Right_Pointers_in_Each_Node.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
