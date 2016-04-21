@@ -300,6 +300,15 @@
     <ClInclude Include="116_Population_Next_Right_Pointers_in_Each_Node.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="53_Maximum_Subarray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="152_Maximum_Product_Subarray.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="11_Container_With_Most_Water.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
