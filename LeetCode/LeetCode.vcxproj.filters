@@ -309,6 +309,12 @@
     <ClInclude Include="11_Container_With_Most_Water.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="89_Gray_Code.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="62_Unique_Paths.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

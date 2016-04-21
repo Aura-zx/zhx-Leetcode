@@ -159,6 +159,7 @@
     <ClInclude Include="38_Count_and_Say.h" />
     <ClInclude Include="53_Maximum_Subarray.h" />
     <ClInclude Include="58_Length_of_Last_Word.h" />
+    <ClInclude Include="62_Unique_Paths.h" />
     <ClInclude Include="65_Valid_Number.h" />
     <ClInclude Include="66_Plus_One.h" />
     <ClInclude Include="67_Add_Binary.h" />
@@ -167,6 +168,7 @@
     <ClInclude Include="7_Reverse_Integer.h" />
     <ClInclude Include="83_Remove_Duplicates_from_Sorted_List.h" />
     <ClInclude Include="88_Merge_Sorted_Array.h" />
+    <ClInclude Include="89_Gray_Code.h" />
     <ClInclude Include="8_String_To_Integer.h" />
     <ClInclude Include="94_Binary_Tree_Inorder_Traversal.h" />
     <ClInclude Include="96_Unique_Binary_Search_Trees.h" />
