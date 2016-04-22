@@ -103,6 +103,7 @@
     <ClInclude Include="14_Longest_Common_Prefix.h" />
     <ClInclude Include="152_Maximum_Product_Subarray.h" />
     <ClInclude Include="153_Find_Minimum_in_Rotated_Sorted_Array.h" />
+    <ClInclude Include="154_Find_Minimum_in_Rotated_Sorted_Array_II.h" />
     <ClInclude Include="160_Intersection_of_Two_Linked_Lists.h" />
     <ClInclude Include="165_Compare_Version_Numbers.h" />
     <ClInclude Include="168_Excel_Sheet_Column_Title.h" />
@@ -159,6 +160,8 @@
     <ClInclude Include="35_Search_Insert_Position.h" />
     <ClInclude Include="36_Valid_Sudoku.h" />
     <ClInclude Include="38_Count_and_Say.h" />
+    <ClInclude Include="46_Permutations.h" />
+    <ClInclude Include="47_Permutations_II.h" />
     <ClInclude Include="53_Maximum_Subarray.h" />
     <ClInclude Include="58_Length_of_Last_Word.h" />
     <ClInclude Include="62_Unique_Paths.h" />

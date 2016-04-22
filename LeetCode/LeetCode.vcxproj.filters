@@ -324,6 +324,18 @@
     <ClInclude Include="33_Search_in_Rotated_Sorted_Array.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="81_Search_in_Rotated_Sorted_Array_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="154_Find_Minimum_in_Rotated_Sorted_Array_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="46_Permutations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="47_Permutations_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
