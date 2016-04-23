@@ -336,6 +336,15 @@
     <ClInclude Include="47_Permutations_II.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="39_Combination_Sum.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="40_Combination_Sum_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="216_Combination_Sum_III.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

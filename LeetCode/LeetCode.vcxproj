@@ -122,6 +122,7 @@
     <ClInclude Include="206_Reverse_Linked_List.h" />
     <ClInclude Include="20_Valid_Parentheses.h" />
     <ClInclude Include="213_House_Robber_II.h" />
+    <ClInclude Include="216_Combination_Sum_III.h" />
     <ClInclude Include="217_Contains_Duplicate.h" />
     <ClInclude Include="219_Contains_Duplicate_II.h" />
     <ClInclude Include="21_Merge_Two_Sorted_Lists.h" />
@@ -160,6 +161,8 @@
     <ClInclude Include="35_Search_Insert_Position.h" />
     <ClInclude Include="36_Valid_Sudoku.h" />
     <ClInclude Include="38_Count_and_Say.h" />
+    <ClInclude Include="39_Combination_Sum.h" />
+    <ClInclude Include="40_Combination_Sum_II.h" />
     <ClInclude Include="46_Permutations.h" />
     <ClInclude Include="47_Permutations_II.h" />
     <ClInclude Include="53_Maximum_Subarray.h" />
