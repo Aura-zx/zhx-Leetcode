@@ -2,18 +2,18 @@
 //
 
 #include "stdafx.h"
-#include "40_Combination_Sum_II.h"
+#include "59_Spiral_Matrix_II.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_40 s = Solution_40( );
+	Solution_59 s = Solution_59( );
 	vector<int> v1 = {10,1,2,7,6,1,5};
 	int target = 7;
 
-	s.combinationSum2(v1, target);
+	s.generateMatrix(1);
 
 	return 0;
 }

@@ -345,6 +345,12 @@
     <ClInclude Include="216_Combination_Sum_III.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="54_Spiral_Matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="59_Spiral_Matrix_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

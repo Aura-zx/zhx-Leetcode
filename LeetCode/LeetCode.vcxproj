@@ -166,7 +166,9 @@
     <ClInclude Include="46_Permutations.h" />
     <ClInclude Include="47_Permutations_II.h" />
     <ClInclude Include="53_Maximum_Subarray.h" />
+    <ClInclude Include="54_Spiral_Matrix.h" />
     <ClInclude Include="58_Length_of_Last_Word.h" />
+    <ClInclude Include="59_Spiral_Matrix_II.h" />
     <ClInclude Include="62_Unique_Paths.h" />
     <ClInclude Include="63_Unique_Paths_II.h" />
     <ClInclude Include="65_Valid_Number.h" />
