@@ -100,6 +100,8 @@
     <ClInclude Include="141_Linked_List_Cycle.h" />
     <ClInclude Include="144_Binary_Tree_Preorder_Traversal.h" />
     <ClInclude Include="145_Binary_Tree_Postorder_Traversal.h" />
+    <ClInclude Include="147_Insertion_Sort_List.h" />
+    <ClInclude Include="148_Sort_List.h" />
     <ClInclude Include="14_Longest_Common_Prefix.h" />
     <ClInclude Include="152_Maximum_Product_Subarray.h" />
     <ClInclude Include="153_Find_Minimum_in_Rotated_Sorted_Array.h" />
@@ -136,6 +138,7 @@
     <ClInclude Include="235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.h" />
     <ClInclude Include="237_Delete_Node_in_a_Linked_List.h" />
     <ClInclude Include="238_Product_of_Array_Except_Self.h" />
+    <ClInclude Include="241_Different_Ways_to_Add_Paraentheses.h" />
     <ClInclude Include="242_Valid_Anagram.h" />
     <ClInclude Include="257_Binary_Tree_Path.h" />
     <ClInclude Include="258_Add_Digits.h" />
@@ -171,11 +174,13 @@
     <ClInclude Include="59_Spiral_Matrix_II.h" />
     <ClInclude Include="62_Unique_Paths.h" />
     <ClInclude Include="63_Unique_Paths_II.h" />
+    <ClInclude Include="64_Minimum_Path_Sum.h" />
     <ClInclude Include="65_Valid_Number.h" />
     <ClInclude Include="66_Plus_One.h" />
     <ClInclude Include="67_Add_Binary.h" />
     <ClInclude Include="6_ZigZag_Conversion.h" />
     <ClInclude Include="70_Climbing_Stairs.h" />
+    <ClInclude Include="75_Sort_Colors.h" />
     <ClInclude Include="7_Reverse_Integer.h" />
     <ClInclude Include="81_Search_in_Rotated_Sorted_Array_II.h" />
     <ClInclude Include="83_Remove_Duplicates_from_Sorted_List.h" />
