@@ -140,6 +140,7 @@
     <ClInclude Include="235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.h" />
     <ClInclude Include="237_Delete_Node_in_a_Linked_List.h" />
     <ClInclude Include="238_Product_of_Array_Except_Self.h" />
+    <ClInclude Include="240_Search_a_2D_Matrix_II.h" />
     <ClInclude Include="241_Different_Ways_to_Add_Paraentheses.h" />
     <ClInclude Include="242_Valid_Anagram.h" />
     <ClInclude Include="257_Binary_Tree_Path.h" />
@@ -183,7 +184,9 @@
     <ClInclude Include="67_Add_Binary.h" />
     <ClInclude Include="6_ZigZag_Conversion.h" />
     <ClInclude Include="70_Climbing_Stairs.h" />
+    <ClInclude Include="74_Search_a_2D_Matrix.h" />
     <ClInclude Include="75_Sort_Colors.h" />
+    <ClInclude Include="78_Subsets.h" />
     <ClInclude Include="7_Reverse_Integer.h" />
     <ClInclude Include="81_Search_in_Rotated_Sorted_Array_II.h" />
     <ClInclude Include="83_Remove_Duplicates_from_Sorted_List.h" />
@@ -196,6 +199,7 @@
     <ClInclude Include="260_Single_Number_III.h" />
     <ClInclude Include="basic_struct.h" />
     <ClInclude Include="142_Linked_List_Cycle_II.h" />
+    <ClInclude Include="77_Combinations.h" />
     <ClInclude Include="stdafx.h" />
     <ClInclude Include="targetver.h" />
   </ItemGroup>

@@ -375,6 +375,18 @@
     <ClInclude Include="199_Binary_Tree_Right_Side_View.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="240_Search_a_2D_Matrix_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="74_Search_a_2D_Matrix.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="77_Combinations.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="78_Subsets.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
