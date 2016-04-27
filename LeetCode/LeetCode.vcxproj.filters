@@ -387,6 +387,9 @@
     <ClInclude Include="78_Subsets.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="300_Longest_Increasing_Subsequence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
