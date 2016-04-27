@@ -390,6 +390,9 @@
     <ClInclude Include="300_Longest_Increasing_Subsequence.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="264_Ugly_Number_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

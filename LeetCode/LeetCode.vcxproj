@@ -146,6 +146,7 @@
     <ClInclude Include="257_Binary_Tree_Path.h" />
     <ClInclude Include="258_Add_Digits.h" />
     <ClInclude Include="263_Ugly_Number.h" />
+    <ClInclude Include="264_Ugly_Number_II.h" />
     <ClInclude Include="268_Missing_Number.h" />
     <ClInclude Include="26_Remove_Duplicates_from_Sorted_Array.h" />
     <ClInclude Include="278_First_Bad_Version.h" />
