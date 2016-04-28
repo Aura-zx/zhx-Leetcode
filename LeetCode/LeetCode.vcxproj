@@ -162,6 +162,7 @@
     <ClInclude Include="318_Maximum_Product_of_Word_Lengths.h" />
     <ClInclude Include="319_Bulb_Switcher.h" />
     <ClInclude Include="328_Odd_Even_Linked_List.h" />
+    <ClInclude Include="334_Reverse_String.h" />
     <ClInclude Include="337_House_Robber_III.h" />
     <ClInclude Include="338_Counting_Bits.h" />
     <ClInclude Include="33_Search_in_Rotated_Sorted_Array.h" />
