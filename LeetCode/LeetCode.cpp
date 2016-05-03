@@ -2,19 +2,19 @@
 //
 
 #include "stdafx.h"
-#include "74_Search_a_2D_Matrix.h"
+#include "313_Super_Ugly_Number.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_74 s = Solution_74( );
-	vector<int> v1 = {10,1,2,7,6,1,5};
+	Solution_313 s = Solution_313( );
+	vector<int> v1 = {2,7,13,19};
 	vector<vector<int>> v2 = { {1} };
 	int target = 7;
 
-	s.searchMatrix(v2, 0);
+	s.nthSuperUglyNumber(4, v1);
 
 	return 0;
 }
