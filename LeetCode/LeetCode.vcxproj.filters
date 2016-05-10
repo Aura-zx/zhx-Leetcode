@@ -399,6 +399,12 @@
     <ClInclude Include="313_Super_Ugly_Number.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="284_Peeking_Iterator.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="73_Set_Matrix_Zeroes.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

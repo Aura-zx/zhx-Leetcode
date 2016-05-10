@@ -152,6 +152,7 @@
     <ClInclude Include="278_First_Bad_Version.h" />
     <ClInclude Include="27_Remove_Element.h" />
     <ClInclude Include="283_Move_Zeros.h" />
+    <ClInclude Include="284_Peeking_Iterator.h" />
     <ClInclude Include="28_Implement_strStr.h" />
     <ClInclude Include="290_Word_Pattern.h" />
     <ClInclude Include="292_Nim_Game.h" />
@@ -188,6 +189,7 @@
     <ClInclude Include="67_Add_Binary.h" />
     <ClInclude Include="6_ZigZag_Conversion.h" />
     <ClInclude Include="70_Climbing_Stairs.h" />
+    <ClInclude Include="73_Set_Matrix_Zeroes.h" />
     <ClInclude Include="74_Search_a_2D_Matrix.h" />
     <ClInclude Include="75_Sort_Colors.h" />
     <ClInclude Include="78_Subsets.h" />
