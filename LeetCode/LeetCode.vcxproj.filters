@@ -405,6 +405,9 @@
     <ClInclude Include="73_Set_Matrix_Zeroes.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="334_Increasing_Triplet_Subsequence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
