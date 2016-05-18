@@ -408,6 +408,9 @@
     <ClInclude Include="334_Increasing_Triplet_Subsequence.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="215_Kth_Largest_Element_in_an_Array.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
