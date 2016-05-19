@@ -2,19 +2,19 @@
 //
 
 #include "stdafx.h"
-#include "313_Super_Ugly_Number.h"
+#include "347_Top_K_Frequent_Elements.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_313 s = Solution_313( );
-	vector<int> v1 = {2,7,13,19};
+	Solution_347 s = Solution_347( );
+	vector<int> v1 = {1,1,1,2,2,3};
 	vector<vector<int>> v2 = { {1} };
-	int target = 7;
+	int target = 2;
 
-	s.nthSuperUglyNumber(4, v1);
+	s.topKFrequent(v1, 2);
 
 	return 0;
 }

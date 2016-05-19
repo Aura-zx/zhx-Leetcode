@@ -411,6 +411,15 @@
     <ClInclude Include="215_Kth_Largest_Element_in_an_Array.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="162_Find_Peak_Element.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="80_Remove_Duplicates_from_Sorted_Array_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="347_Top_K_Frequent_Elements.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
