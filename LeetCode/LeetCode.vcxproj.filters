@@ -420,6 +420,9 @@
     <ClInclude Include="347_Top_K_Frequent_Elements.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="279_Perfect_Squares.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
