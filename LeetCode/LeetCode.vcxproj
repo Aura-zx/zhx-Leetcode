@@ -94,6 +94,7 @@
     <ClInclude Include="121_Best_Time_to_Buy_and_Sell_Stock.h" />
     <ClInclude Include="122_Best_Time_to_Buy_and_Sell_Stock_II.h" />
     <ClInclude Include="125_Valid_Palindrome.h" />
+    <ClInclude Include="129_Sum_Root_to_Leaf_Numbers.h" />
     <ClInclude Include="136_Single_Number.h" />
     <ClInclude Include="137_Single_Number_II.h" />
     <ClInclude Include="13_Roman_to_Integer.h" />

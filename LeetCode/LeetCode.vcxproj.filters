@@ -423,6 +423,9 @@
     <ClInclude Include="279_Perfect_Squares.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="129_Sum_Root_to_Leaf_Numbers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
