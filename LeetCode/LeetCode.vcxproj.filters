@@ -426,6 +426,12 @@
     <ClInclude Include="129_Sum_Root_to_Leaf_Numbers.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="274_H-Index.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="275_H-Index_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

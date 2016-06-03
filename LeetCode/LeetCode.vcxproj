@@ -152,6 +152,8 @@
     <ClInclude Include="264_Ugly_Number_II.h" />
     <ClInclude Include="268_Missing_Number.h" />
     <ClInclude Include="26_Remove_Duplicates_from_Sorted_Array.h" />
+    <ClInclude Include="274_H-Index.h" />
+    <ClInclude Include="275_H-Index_II.h" />
     <ClInclude Include="278_First_Bad_Version.h" />
     <ClInclude Include="279_Perfect_Squares.h" />
     <ClInclude Include="27_Remove_Element.h" />
