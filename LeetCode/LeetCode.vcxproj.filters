@@ -432,6 +432,12 @@
     <ClInclude Include="275_H-Index_II.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="331_Verify_Preorder_Serialization_of_a_Binary_Tree.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="114_Flatten_Binary_Tree_To_Linked_List.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
