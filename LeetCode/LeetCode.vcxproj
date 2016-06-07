@@ -123,6 +123,7 @@
     <ClInclude Include="199_Binary_Tree_Right_Side_View.h" />
     <ClInclude Include="19_Remove_Nth_Node_From_End_of_List.h" />
     <ClInclude Include="1_Two_Sum.h" />
+    <ClInclude Include="201_Bitwise_AND_of_Numbers_Ranges.h" />
     <ClInclude Include="202_Happy_Number.h" />
     <ClInclude Include="203_Remove_Linked_List_Elements.h" />
     <ClInclude Include="205_Isomorphic_Strings.h" />
@@ -210,6 +211,7 @@
     <ClInclude Include="88_Merge_Sorted_Array.h" />
     <ClInclude Include="89_Gray_Code.h" />
     <ClInclude Include="8_String_To_Integer.h" />
+    <ClInclude Include="90_Subsets_II.h" />
     <ClInclude Include="94_Binary_Tree_Inorder_Traversal.h" />
     <ClInclude Include="96_Unique_Binary_Search_Trees.h" />
     <ClInclude Include="9_Palindrome_Number.h" />

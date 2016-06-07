@@ -438,6 +438,12 @@
     <ClInclude Include="114_Flatten_Binary_Tree_To_Linked_List.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="90_Subsets_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="201_Bitwise_AND_of_Numbers_Ranges.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
