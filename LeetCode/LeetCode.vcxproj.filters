@@ -444,6 +444,12 @@
     <ClInclude Include="201_Bitwise_AND_of_Numbers_Ranges.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="128_Longest_Consecutive_Sequence.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="34_Search_for_a_Range.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

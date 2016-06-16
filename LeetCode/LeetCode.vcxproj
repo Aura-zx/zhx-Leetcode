@@ -95,6 +95,7 @@
     <ClInclude Include="121_Best_Time_to_Buy_and_Sell_Stock.h" />
     <ClInclude Include="122_Best_Time_to_Buy_and_Sell_Stock_II.h" />
     <ClInclude Include="125_Valid_Palindrome.h" />
+    <ClInclude Include="128_Longest_Consecutive_Sequence.h" />
     <ClInclude Include="129_Sum_Root_to_Leaf_Numbers.h" />
     <ClInclude Include="136_Single_Number.h" />
     <ClInclude Include="137_Single_Number_II.h" />
@@ -180,6 +181,7 @@
     <ClInclude Include="33_Search_in_Rotated_Sorted_Array.h" />
     <ClInclude Include="343_Integer_Break.h" />
     <ClInclude Include="347_Top_K_Frequent_Elements.h" />
+    <ClInclude Include="34_Search_for_a_Range.h" />
     <ClInclude Include="35_Search_Insert_Position.h" />
     <ClInclude Include="36_Valid_Sudoku.h" />
     <ClInclude Include="38_Count_and_Say.h" />
