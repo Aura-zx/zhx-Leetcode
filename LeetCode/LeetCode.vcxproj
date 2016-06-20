@@ -182,6 +182,7 @@
     <ClInclude Include="343_Integer_Break.h" />
     <ClInclude Include="347_Top_K_Frequent_Elements.h" />
     <ClInclude Include="34_Search_for_a_Range.h" />
+    <ClInclude Include="357_Count_Numbers_with_Unique_Digits.h" />
     <ClInclude Include="35_Search_Insert_Position.h" />
     <ClInclude Include="36_Valid_Sudoku.h" />
     <ClInclude Include="38_Count_and_Say.h" />
