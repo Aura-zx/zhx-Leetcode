@@ -92,6 +92,7 @@
     <ClInclude Include="118_Pascal%27s_Triangle.h" />
     <ClInclude Include="119_Pascal%27s_Triangle_II.h" />
     <ClInclude Include="11_Container_With_Most_Water.h" />
+    <ClInclude Include="120_Triangle.h" />
     <ClInclude Include="121_Best_Time_to_Buy_and_Sell_Stock.h" />
     <ClInclude Include="122_Best_Time_to_Buy_and_Sell_Stock_II.h" />
     <ClInclude Include="125_Valid_Palindrome.h" />
@@ -179,6 +180,7 @@
     <ClInclude Include="337_House_Robber_III.h" />
     <ClInclude Include="338_Counting_Bits.h" />
     <ClInclude Include="33_Search_in_Rotated_Sorted_Array.h" />
+    <ClInclude Include="341_Flatten_Nested_List_Iterator.h" />
     <ClInclude Include="343_Integer_Break.h" />
     <ClInclude Include="347_Top_K_Frequent_Elements.h" />
     <ClInclude Include="34_Search_for_a_Range.h" />
@@ -211,6 +213,7 @@
     <ClInclude Include="80_Remove_Duplicates_from_Sorted_Array_II.h" />
     <ClInclude Include="81_Search_in_Rotated_Sorted_Array_II.h" />
     <ClInclude Include="83_Remove_Duplicates_from_Sorted_List.h" />
+    <ClInclude Include="86_Partition_List.h" />
     <ClInclude Include="88_Merge_Sorted_Array.h" />
     <ClInclude Include="89_Gray_Code.h" />
     <ClInclude Include="8_String_To_Integer.h" />
