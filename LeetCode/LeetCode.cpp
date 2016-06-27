@@ -2,19 +2,19 @@
 //
 
 #include "stdafx.h"
-#include "347_Top_K_Frequent_Elements.h"
+#include "18_4Sum.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_347 s = Solution_347( );
-	vector<int> v1 = {1,1,1,2,2,3};
+	Solution_18 s = Solution_18( );
+	vector<int> v1 = {0,0,0,0};
 	vector<vector<int>> v2 = { {1} };
 	int target = 2;
 
-	s.topKFrequent(v1, 2);
+	s.fourSum(v1, 0);
 
 	return 0;
 }
