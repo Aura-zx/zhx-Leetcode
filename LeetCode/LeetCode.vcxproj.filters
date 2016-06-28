@@ -471,6 +471,12 @@
     <ClInclude Include="18_4Sum.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="367_Valid_Perfect_Square.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="69_Sqrt(x).h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
