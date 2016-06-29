@@ -107,6 +107,7 @@
     <ClInclude Include="147_Insertion_Sort_List.h" />
     <ClInclude Include="148_Sort_List.h" />
     <ClInclude Include="14_Longest_Common_Prefix.h" />
+    <ClInclude Include="151_Reverse_Words_in_a_String.h" />
     <ClInclude Include="152_Maximum_Product_Subarray.h" />
     <ClInclude Include="153_Find_Minimum_in_Rotated_Sorted_Array.h" />
     <ClInclude Include="154_Find_Minimum_in_Rotated_Sorted_Array_II.h" />

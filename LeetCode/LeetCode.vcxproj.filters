@@ -486,6 +486,9 @@
     <ClInclude Include="43_Multiply_Strings.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="151_Reverse_Words_in_a_String.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
