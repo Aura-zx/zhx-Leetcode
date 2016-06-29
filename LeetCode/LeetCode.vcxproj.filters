@@ -477,6 +477,15 @@
     <ClInclude Include="69_Sqrt(x).h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="368_Largest_Divisible_Subset.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="2_Add_Two_Numbers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="43_Multiply_Strings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
