@@ -489,6 +489,21 @@
     <ClInclude Include="151_Reverse_Words_in_a_String.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="17_Letter_Combinations_of_a_Phone_Number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="371_Sum_of_Two_Integers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="187_Repeat_DNA_Sequences.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="349_Intersection_of_Two_Arrays.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="350_Intersection_of_Two_Arrays_II.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

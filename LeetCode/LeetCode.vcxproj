@@ -121,6 +121,8 @@
     <ClInclude Include="171_Excel_Sheet_Column_Number.h" />
     <ClInclude Include="172_Factorial_Trailing_Zeroes.h" />
     <ClInclude Include="173_Binary_Search_Tree_Iterator.h" />
+    <ClInclude Include="17_Letter_Combinations_of_a_Phone_Number.h" />
+    <ClInclude Include="187_Repeat_DNA_Sequences.h" />
     <ClInclude Include="189_Rotate_Array.h" />
     <ClInclude Include="18_4Sum.h" />
     <ClInclude Include="190_Reverse_Bits.h" />
@@ -188,12 +190,15 @@
     <ClInclude Include="341_Flatten_Nested_List_Iterator.h" />
     <ClInclude Include="343_Integer_Break.h" />
     <ClInclude Include="347_Top_K_Frequent_Elements.h" />
+    <ClInclude Include="349_Intersection_of_Two_Arrays.h" />
     <ClInclude Include="34_Search_for_a_Range.h" />
+    <ClInclude Include="350_Intersection_of_Two_Arrays_II.h" />
     <ClInclude Include="357_Count_Numbers_with_Unique_Digits.h" />
     <ClInclude Include="35_Search_Insert_Position.h" />
     <ClInclude Include="367_Valid_Perfect_Square.h" />
     <ClInclude Include="368_Largest_Divisible_Subset.h" />
     <ClInclude Include="36_Valid_Sudoku.h" />
+    <ClInclude Include="371_Sum_of_Two_Integers.h" />
     <ClInclude Include="38_Count_and_Say.h" />
     <ClInclude Include="39_Combination_Sum.h" />
     <ClInclude Include="40_Combination_Sum_II.h" />
