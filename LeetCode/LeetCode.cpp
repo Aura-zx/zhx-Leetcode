@@ -2,20 +2,20 @@
 //
 
 #include "stdafx.h"
-#include "350_Intersection_of_Two_Arrays_II.h"
+#include "287_Find_the_Duplicate_Number.h"
 
 #include <iostream>
 using namespace std;
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	Solution_350 s = Solution_350( );
-	vector<int> v1 = {1,2,2,1};
+	Solution_287 s = Solution_287( );
+	vector<int> v1 = {1,1};
 	vector<int> v2 = { 2 };
 	vector<vector<int>> v3 = { {1} };
 	int target = 2;
 
-	s.intersect(v1, v2);
+	s.findDuplicat(v1);
 
 	return 0;
 }

@@ -504,6 +504,12 @@
     <ClInclude Include="350_Intersection_of_Two_Arrays_II.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="287_Find_the_Duplicate_Number.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="312_Burst_Balloons.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">

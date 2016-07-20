@@ -169,6 +169,7 @@
     <ClInclude Include="27_Remove_Element.h" />
     <ClInclude Include="283_Move_Zeros.h" />
     <ClInclude Include="284_Peeking_Iterator.h" />
+    <ClInclude Include="287_Find_the_Duplicate_Number.h" />
     <ClInclude Include="28_Implement_strStr.h" />
     <ClInclude Include="290_Word_Pattern.h" />
     <ClInclude Include="292_Nim_Game.h" />
@@ -177,6 +178,7 @@
     <ClInclude Include="300_Longest_Increasing_Subsequence.h" />
     <ClInclude Include="303_Range_Sum_Query_Immutable.h" />
     <ClInclude Include="309_Best_Time_to_Buy_and_Sell_Stock_with_Colldown.h" />
+    <ClInclude Include="312_Burst_Balloons.h" />
     <ClInclude Include="313_Super_Ugly_Number.h" />
     <ClInclude Include="318_Maximum_Product_of_Word_Lengths.h" />
     <ClInclude Include="319_Bulb_Switcher.h" />
